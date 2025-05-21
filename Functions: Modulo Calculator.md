@@ -12,8 +12,17 @@ To write a Python program that defines a function which accepts two values and r
 
 ## 🧾 Program
 
-Add code Here
+a=int(input())
+
+b=int(input())
+
+f=lambda a,b: a+b 
+
+print(f(a,b)
 
 ## Output
 
+![Screenshot 2025-05-21 233246](https://github.com/user-attachments/assets/1b8666d2-9aec-4667-9b4c-a8218dbca57c)
+
 ## Result
+Thus, the program has been successfully executed.
